@@ -4,8 +4,8 @@ Hello, again.  I'm Taif from Bangladesh. Working as a remote/freelancer develope
 
 Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on a news portal site
-- 🌱 I’m currently learning Three Js 
+- 🔭 I’m currently working as Software engineer at Cansoft
+- 🌱 I’m currently learning Blockchain development
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TtaifRS)  
